@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkhaggen_cv=self.webpackChunkhaggen_cv||[]).push([[691],{6738:function(t,n,e){e.r(n);e(7294);var l=e(8763),a=e(3431);const g={marginTop:0,marginBottom:64,maxWidth:320};n.default=()=>(0,a.tZ)(l.Z,null,(0,a.tZ)("main",null,(0,a.tZ)("title",null,"Home Page"),(0,a.tZ)("h1",{style:g},"Hello Johan Hägg CV")))}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-34a48abd2e4e8360816a.js.map

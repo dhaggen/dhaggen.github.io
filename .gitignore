@@ -237,4 +237,6 @@ psd
 thumb
 sketch
 
+public/
+
 # End of https://www.toptal.com/developers/gitignore/api/react,intellij+all,node
