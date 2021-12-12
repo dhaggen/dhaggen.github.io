@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhaggen_cv=self.webpackChunkhaggen_cv||[]).push([[49],{564:function(e,l,u){u.r(l);u(7294);var n=u(8763),t=u(3431);l.default=()=>(0,t.tZ)(n.Z,null,(0,t.tZ)("h1",null,"Hello About"))}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-5b6f95f2553cd0bd87a6.js.map
