@@ -9,6 +9,7 @@ const IndexPage = () => {
               Johan Hägg
             </h1>
             <h2>Software Developer</h2>
+            <h2>This page is a little bit of a work in progress.</h2>
         </Layout>
   )
 }
