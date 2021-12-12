@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhaggen_cv=self.webpackChunkhaggen_cv||[]).push([[218],{938:function(e,n,l){l.r(n);l(7294);var t=l(5992),u=l(3431);n.default=()=>(0,u.tZ)(t.Z,null,(0,u.tZ)("title",null,"Johan Hägg - Software Developer - 404"),(0,u.tZ)("h1",null,"Page not found"))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-2a67145a8a7cbedeb72b.js.map
