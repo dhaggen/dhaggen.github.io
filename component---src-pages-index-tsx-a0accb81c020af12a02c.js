@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhaggen_cv=self.webpackChunkhaggen_cv||[]).push([[691],{6738:function(e,l,t){t.r(l);t(7294);var n=t(5992),a=t(3431);l.default=()=>(0,a.tZ)(n.Z,null,(0,a.tZ)("title",null,"Johan Hägg - Software Developer - Home"),(0,a.tZ)("h1",null,"Johan Hägg"),(0,a.tZ)("h2",null,"Software Developer"),(0,a.tZ)("h2",null,"This page is a little bit of a work in progress."))}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-a0accb81c020af12a02c.js.map
